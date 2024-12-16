@@ -1,0 +1,62 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Distribution / packaging
+build/
+develop-eggs/
+dist/
+eggs/
+.eggs/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# Logs and databases
+*.log
+*.sqlite3
+
+# Unit test / coverage reports
+htmlcov/
+.tox/
+.nox/
+.coverage
+.coverage.*
+.cache
+nosetests.xml
+coverage.xml
+*.cover
+.hypothesis/
+pytest_cache/
+
+# Virtual environment
+venv/
+ENV/
+env/
+.env/
+.env.*.bkp
+*.env
+*.venv
+
+# IDEs and editors
+.vscode/
+.idea/
+*.swp
+*.sublime-workspace
+
+# Mac files
+.DS_Store
+
+# Debug files
+*.pdb
+*.stackdump
+
+# Local files
+local_settings.py
+
+# Compiled files
+*.so
+*.dll
+*.dylib

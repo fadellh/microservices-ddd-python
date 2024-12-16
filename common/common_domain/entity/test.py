@@ -1,0 +1,2 @@
+def opsa():
+    print("JSALKSLA")
